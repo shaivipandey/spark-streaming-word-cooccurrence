@@ -1,2 +1,9 @@
 # spark-streaming-word-cooccurrence
-This repository contains the implementation of a word co-occurrence program using Spark Streaming as part of the CSE 4/587 Summer 2024 course. The project includes data processing using PySpark, analysis of streaming data, and exploration of biases in data, with a focus on practical applications of distributed computing concepts.
+Overview
+This repository contains the implementation and analysis for Assignment #4 of the CSE 4/587 Data Intensive Computing course at the University at Buffalo. The assignment covers Spark Streaming, word co-occurrence analysis, and understanding biases in data, offering hands-on experience with distributed streaming data processing.
+
+Contents
+1. Word Co-occurrence Program: Implementation of a real-time word co-occurrence algorithm using Spark Streaming, with input data streamed through a TCP socket.
+2. Comprehensive Report on DStream: A detailed review of the paper "Discretized Streams: Fault-Tolerant Streaming Computation at Scale."
+3. Bias Analysis: Identification and analysis of biases in various scenarios, providing potential solutions to mitigate these biases.
+
