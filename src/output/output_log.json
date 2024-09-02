@@ -1,0 +1,3712 @@
+{
+  "windows": [
+    {
+      "window_number": 1,
+      "sentence_count": 2,
+      "sentences": [
+        "You were hungry.",
+        "The elephant appear hungry."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "you",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "hungry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "hungry",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "hungry"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 2,
+      "sentence_count": 4,
+      "sentences": [
+        "You were hungry.",
+        "The elephant appear hungry.",
+        "The dog appear happy.",
+        "They appear sleepy."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "you",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "hungry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "hungry",
+            "the"
+          ],
+          "count": 2
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "hungry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "happy",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "sleepy"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 3,
+      "sentence_count": 3,
+      "sentences": [
+        "They appear sleepy.",
+        "She look excited.",
+        "They seem curious."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "she",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sleepy",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "curious"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 4,
+      "sentence_count": 3,
+      "sentences": [
+        "They seem curious.",
+        "You seem excited.",
+        "The bird is sleepy."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "curious",
+            "you"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "you",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "sleepy"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 5,
+      "sentence_count": 3,
+      "sentences": [
+        "The bird is sleepy.",
+        "She feel excited.",
+        "She were sleepy."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "feel",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sleepy",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "were"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 6,
+      "sentence_count": 3,
+      "sentences": [
+        "She were sleepy.",
+        "She is tired.",
+        "You am confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "were",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "you"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sleepy",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "you",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "confused"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 7,
+      "sentence_count": 3,
+      "sentences": [
+        "You am confused.",
+        "We appear tired.",
+        "The cat look excited."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "we",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "cat"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "cat",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "you",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "we"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "excited"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 8,
+      "sentence_count": 3,
+      "sentences": [
+        "The cat look excited.",
+        "She look hungry.",
+        "The bird are sad."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "the",
+            "cat"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "cat",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "hungry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "hungry",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 9,
+      "sentence_count": 3,
+      "sentences": [
+        "The bird are sad.",
+        "The dog are sad.",
+        "She feel angry."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "bird",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "sad"
+          ],
+          "count": 2
+        },
+        {
+          "bigram": [
+            "dog",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "feel"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 10,
+      "sentence_count": 3,
+      "sentences": [
+        "She feel angry.",
+        "The bird are excited.",
+        "We look tired."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "feel",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "we",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "angry",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "we"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "tired"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 11,
+      "sentence_count": 3,
+      "sentences": [
+        "We look tired.",
+        "You seem hungry.",
+        "He am happy."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "we",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "you"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "he",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "you",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "hungry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "hungry",
+            "he"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 12,
+      "sentence_count": 3,
+      "sentences": [
+        "He am happy.",
+        "The dog was sad.",
+        "The dog were confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "he",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "happy",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 2
+        },
+        {
+          "bigram": [
+            "dog",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "the"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 13,
+      "sentence_count": 3,
+      "sentences": [
+        "The dog were confused.",
+        "We is tired.",
+        "You are tired."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "dog",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "we",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "you"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "you",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "we"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "tired"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 14,
+      "sentence_count": 3,
+      "sentences": [
+        "You are tired.",
+        "She was tired.",
+        "I seem angry."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "you",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "i",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "i"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "angry"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 15,
+      "sentence_count": 3,
+      "sentences": [
+        "I seem angry.",
+        "She was happy.",
+        "The bird become sad."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "i",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "happy",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "angry",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 16,
+      "sentence_count": 3,
+      "sentences": [
+        "The bird become sad.",
+        "We seem sad.",
+        "They become confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "bird",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "we",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "we"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "sad"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 17,
+      "sentence_count": 3,
+      "sentences": [
+        "They become confused.",
+        "He look curious.",
+        "The elephant seem angry."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "they",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "he",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "he"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "angry"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 18,
+      "sentence_count": 3,
+      "sentences": [
+        "The elephant seem angry.",
+        "The elephant was hungry.",
+        "The dog feel tired."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "dog",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 2
+        },
+        {
+          "bigram": [
+            "elephant",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "angry",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "hungry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "hungry",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 19,
+      "sentence_count": 3,
+      "sentences": [
+        "The dog feel tired.",
+        "They become tired.",
+        "The elephant look confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "dog",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "confused"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 20,
+      "sentence_count": 3,
+      "sentences": [
+        "The elephant look confused.",
+        "She are angry.",
+        "I are curious."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "are",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "angry",
+            "i"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "i",
+            "are"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 21,
+      "sentence_count": 3,
+      "sentences": [
+        "I are curious.",
+        "I feel curious.",
+        "The cat were sad."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "are",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "cat"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "i",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "i"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "i",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "cat",
+            "were"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 22,
+      "sentence_count": 3,
+      "sentences": [
+        "The cat were sad.",
+        "The dog is curious.",
+        "The bird are angry."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "the",
+            "cat"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "cat",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 23,
+      "sentence_count": 3,
+      "sentences": [
+        "The bird are angry.",
+        "She was angry.",
+        "I is sad."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "bird",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "i",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "angry",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "angry",
+            "i"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "sad"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 24,
+      "sentence_count": 3,
+      "sentences": [
+        "I is sad.",
+        "The elephant look sleepy.",
+        "They feel happy."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "i",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sleepy",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "happy"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 25,
+      "sentence_count": 3,
+      "sentences": [
+        "They feel happy.",
+        "The dog look excited.",
+        "The dog become calm."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "they",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "happy",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 2
+        },
+        {
+          "bigram": [
+            "dog",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "calm"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 26,
+      "sentence_count": 3,
+      "sentences": [
+        "The dog become calm.",
+        "She feel happy.",
+        "The dog am tired."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "dog",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "calm",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "happy",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 2
+        },
+        {
+          "bigram": [
+            "become",
+            "calm"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "tired"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 27,
+      "sentence_count": 3,
+      "sentences": [
+        "The dog am tired.",
+        "You become confused.",
+        "They look calm."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "tired",
+            "you"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "you",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "calm"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "look"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 28,
+      "sentence_count": 3,
+      "sentences": [
+        "They look calm.",
+        "The dog become happy.",
+        "The cat look sleepy."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "look",
+            "calm"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "calm",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "happy",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "cat"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "cat",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "sleepy"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 29,
+      "sentence_count": 2,
+      "sentences": [
+        "The cat look sleepy.",
+        "They feel sad."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "the",
+            "cat"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "cat",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sleepy",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "sleepy"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 30,
+      "sentence_count": 3,
+      "sentences": [
+        "They feel sad.",
+        "The bird am tired.",
+        "The dog am confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "they",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "confused"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 31,
+      "sentence_count": 3,
+      "sentences": [
+        "The dog am confused.",
+        "The dog become happy.",
+        "We look angry."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "dog",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "happy",
+            "we"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "we",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 2
+        },
+        {
+          "bigram": [
+            "dog",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "angry"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 32,
+      "sentence_count": 4,
+      "sentences": [
+        "We look angry.",
+        "The bird are hungry.",
+        "They look happy.",
+        "She are sad."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "we",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "hungry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "hungry",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "happy",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "look",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "angry",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "look"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "are"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 33,
+      "sentence_count": 2,
+      "sentences": [
+        "She are sad.",
+        "They appear happy."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "are",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "happy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "appear"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 34,
+      "sentence_count": 2,
+      "sentences": [
+        "She were hungry.",
+        "The bird feel excited."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "were",
+            "hungry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "feel",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "hungry",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 35,
+      "sentence_count": 3,
+      "sentences": [
+        "The dog was curious.",
+        "He am excited.",
+        "The elephant was tired."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "he",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "he"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "tired"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 36,
+      "sentence_count": 3,
+      "sentences": [
+        "He am excited.",
+        "The elephant was tired.",
+        "I were sleepy."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "he",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "i"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "i",
+            "were"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 37,
+      "sentence_count": 3,
+      "sentences": [
+        "I were sleepy.",
+        "They become tired.",
+        "The elephant appear angry."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "were",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sleepy",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "i",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "angry"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 38,
+      "sentence_count": 4,
+      "sentences": [
+        "The elephant appear angry.",
+        "The dog seem confused.",
+        "I was hungry.",
+        "They become confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "i",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "hungry",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "angry",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "i"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "hungry"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 39,
+      "sentence_count": 2,
+      "sentences": [
+        "They become confused.",
+        "The bird is tired."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "they",
+            "become"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "become",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "tired"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 40,
+      "sentence_count": 3,
+      "sentences": [
+        "The bird is tired.",
+        "You appear sad.",
+        "The elephant seem excited."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "tired",
+            "you"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "you",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "excited"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 41,
+      "sentence_count": 3,
+      "sentences": [
+        "The elephant seem excited.",
+        "I feel excited.",
+        "You was angry."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "feel",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "you"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "excited"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "excited",
+            "i"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "i",
+            "feel"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "you",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "angry"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 42,
+      "sentence_count": 3,
+      "sentences": [
+        "You was angry.",
+        "The bird seem sad.",
+        "We am curious."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "we",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "you",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "angry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "angry",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "we"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "curious"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 43,
+      "sentence_count": 3,
+      "sentences": [
+        "We am curious.",
+        "The dog were hungry.",
+        "They were sleepy."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "we",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "dog",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "hungry"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "hungry",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "dog"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 44,
+      "sentence_count": 3,
+      "sentences": [
+        "They were sleepy.",
+        "I am tired.",
+        "The bird am confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "they",
+            "were"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "were",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "i",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sleepy",
+            "i"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "confused"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 45,
+      "sentence_count": 3,
+      "sentences": [
+        "The bird am confused.",
+        "The bird seem sad.",
+        "He seem confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "he",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "bird"
+          ],
+          "count": 2
+        },
+        {
+          "bigram": [
+            "bird",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "bird",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "he"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "confused"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 46,
+      "sentence_count": 3,
+      "sentences": [
+        "He seem confused.",
+        "They is sleepy.",
+        "The elephant are curious."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "he",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "elephant",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "sleepy"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sleepy",
+            "the"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 47,
+      "sentence_count": 3,
+      "sentences": [
+        "The elephant are curious.",
+        "They was curious.",
+        "We is tired."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "elephant",
+            "are"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "are",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "we",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "the",
+            "elephant"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "was"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "was",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "we"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "tired"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 48,
+      "sentence_count": 3,
+      "sentences": [
+        "We is tired.",
+        "We appear curious.",
+        "They seem curious."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "we",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "we",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "tired"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "tired",
+            "we"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "curious"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 49,
+      "sentence_count": 3,
+      "sentences": [
+        "They seem curious.",
+        "They appear sad.",
+        "They appear confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "curious",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "sad",
+            "they"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "appear"
+          ],
+          "count": 2
+        },
+        {
+          "bigram": [
+            "appear",
+            "sad"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "confused"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 50,
+      "sentence_count": 3,
+      "sentences": [
+        "They appear confused.",
+        "We am curious.",
+        "He seem calm."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "we",
+            "am"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "he",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "calm"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "they",
+            "appear"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "appear",
+            "confused"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "confused",
+            "we"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "am",
+            "curious"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "curious",
+            "he"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "window_number": 51,
+      "sentence_count": 2,
+      "sentences": [
+        "He seem calm.",
+        "She is confused."
+      ],
+      "bigrams": [
+        {
+          "bigram": [
+            "he",
+            "seem"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "seem",
+            "calm"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "calm",
+            "she"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "she",
+            "is"
+          ],
+          "count": 1
+        },
+        {
+          "bigram": [
+            "is",
+            "confused"
+          ],
+          "count": 1
+        }
+      ]
+    }
+  ]
+}

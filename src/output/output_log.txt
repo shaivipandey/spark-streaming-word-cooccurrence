@@ -1,0 +1,855 @@
+Window 1:
+Number of sentences: 2
+Sentences:
+  You were hungry.
+  The elephant appear hungry.
+Bigrams and their co-occurrences count:
+  ('you', 'were'): 1
+  ('were', 'hungry'): 1
+  ('hungry', 'the'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'appear'): 1
+  ('appear', 'hungry'): 1
+
+Window 2:
+Number of sentences: 4
+Sentences:
+  You were hungry.
+  The elephant appear hungry.
+  The dog appear happy.
+  They appear sleepy.
+Bigrams and their co-occurrences count:
+  ('you', 'were'): 1
+  ('were', 'hungry'): 1
+  ('appear', 'happy'): 1
+  ('hungry', 'the'): 2
+  ('the', 'elephant'): 1
+  ('elephant', 'appear'): 1
+  ('appear', 'hungry'): 1
+  ('the', 'dog'): 1
+  ('dog', 'appear'): 1
+  ('happy', 'they'): 1
+  ('they', 'appear'): 1
+  ('appear', 'sleepy'): 1
+
+Window 3:
+Number of sentences: 3
+Sentences:
+  They appear sleepy.
+  She look excited.
+  They seem curious.
+Bigrams and their co-occurrences count:
+  ('she', 'look'): 1
+  ('excited', 'they'): 1
+  ('they', 'appear'): 1
+  ('appear', 'sleepy'): 1
+  ('sleepy', 'she'): 1
+  ('look', 'excited'): 1
+  ('they', 'seem'): 1
+  ('seem', 'curious'): 1
+
+Window 4:
+Number of sentences: 3
+Sentences:
+  They seem curious.
+  You seem excited.
+  The bird is sleepy.
+Bigrams and their co-occurrences count:
+  ('curious', 'you'): 1
+  ('they', 'seem'): 1
+  ('seem', 'curious'): 1
+  ('you', 'seem'): 1
+  ('seem', 'excited'): 1
+  ('excited', 'the'): 1
+  ('the', 'bird'): 1
+  ('bird', 'is'): 1
+  ('is', 'sleepy'): 1
+
+Window 5:
+Number of sentences: 3
+Sentences:
+  The bird is sleepy.
+  She feel excited.
+  She were sleepy.
+Bigrams and their co-occurrences count:
+  ('feel', 'excited'): 1
+  ('were', 'sleepy'): 1
+  ('the', 'bird'): 1
+  ('bird', 'is'): 1
+  ('is', 'sleepy'): 1
+  ('sleepy', 'she'): 1
+  ('she', 'feel'): 1
+  ('excited', 'she'): 1
+  ('she', 'were'): 1
+
+Window 6:
+Number of sentences: 3
+Sentences:
+  She were sleepy.
+  She is tired.
+  You am confused.
+Bigrams and their co-occurrences count:
+  ('were', 'sleepy'): 1
+  ('she', 'is'): 1
+  ('tired', 'you'): 1
+  ('she', 'were'): 1
+  ('sleepy', 'she'): 1
+  ('is', 'tired'): 1
+  ('you', 'am'): 1
+  ('am', 'confused'): 1
+
+Window 7:
+Number of sentences: 3
+Sentences:
+  You am confused.
+  We appear tired.
+  The cat look excited.
+Bigrams and their co-occurrences count:
+  ('we', 'appear'): 1
+  ('the', 'cat'): 1
+  ('cat', 'look'): 1
+  ('you', 'am'): 1
+  ('am', 'confused'): 1
+  ('confused', 'we'): 1
+  ('appear', 'tired'): 1
+  ('tired', 'the'): 1
+  ('look', 'excited'): 1
+
+Window 8:
+Number of sentences: 3
+Sentences:
+  The cat look excited.
+  She look hungry.
+  The bird are sad.
+Bigrams and their co-occurrences count:
+  ('the', 'cat'): 1
+  ('cat', 'look'): 1
+  ('she', 'look'): 1
+  ('bird', 'are'): 1
+  ('are', 'sad'): 1
+  ('look', 'excited'): 1
+  ('excited', 'she'): 1
+  ('look', 'hungry'): 1
+  ('hungry', 'the'): 1
+  ('the', 'bird'): 1
+
+Window 9:
+Number of sentences: 3
+Sentences:
+  The bird are sad.
+  The dog are sad.
+  She feel angry.
+Bigrams and their co-occurrences count:
+  ('bird', 'are'): 1
+  ('are', 'sad'): 2
+  ('dog', 'are'): 1
+  ('feel', 'angry'): 1
+  ('the', 'bird'): 1
+  ('sad', 'the'): 1
+  ('the', 'dog'): 1
+  ('sad', 'she'): 1
+  ('she', 'feel'): 1
+
+Window 10:
+Number of sentences: 3
+Sentences:
+  She feel angry.
+  The bird are excited.
+  We look tired.
+Bigrams and their co-occurrences count:
+  ('feel', 'angry'): 1
+  ('bird', 'are'): 1
+  ('are', 'excited'): 1
+  ('we', 'look'): 1
+  ('she', 'feel'): 1
+  ('angry', 'the'): 1
+  ('the', 'bird'): 1
+  ('excited', 'we'): 1
+  ('look', 'tired'): 1
+
+Window 11:
+Number of sentences: 3
+Sentences:
+  We look tired.
+  You seem hungry.
+  He am happy.
+Bigrams and their co-occurrences count:
+  ('we', 'look'): 1
+  ('tired', 'you'): 1
+  ('he', 'am'): 1
+  ('am', 'happy'): 1
+  ('look', 'tired'): 1
+  ('you', 'seem'): 1
+  ('seem', 'hungry'): 1
+  ('hungry', 'he'): 1
+
+Window 12:
+Number of sentences: 3
+Sentences:
+  He am happy.
+  The dog was sad.
+  The dog were confused.
+Bigrams and their co-occurrences count:
+  ('he', 'am'): 1
+  ('am', 'happy'): 1
+  ('happy', 'the'): 1
+  ('dog', 'were'): 1
+  ('were', 'confused'): 1
+  ('the', 'dog'): 2
+  ('dog', 'was'): 1
+  ('was', 'sad'): 1
+  ('sad', 'the'): 1
+
+Window 13:
+Number of sentences: 3
+Sentences:
+  The dog were confused.
+  We is tired.
+  You are tired.
+Bigrams and their co-occurrences count:
+  ('dog', 'were'): 1
+  ('were', 'confused'): 1
+  ('we', 'is'): 1
+  ('tired', 'you'): 1
+  ('you', 'are'): 1
+  ('are', 'tired'): 1
+  ('the', 'dog'): 1
+  ('confused', 'we'): 1
+  ('is', 'tired'): 1
+
+Window 14:
+Number of sentences: 3
+Sentences:
+  You are tired.
+  She was tired.
+  I seem angry.
+Bigrams and their co-occurrences count:
+  ('you', 'are'): 1
+  ('are', 'tired'): 1
+  ('she', 'was'): 1
+  ('i', 'seem'): 1
+  ('tired', 'she'): 1
+  ('was', 'tired'): 1
+  ('tired', 'i'): 1
+  ('seem', 'angry'): 1
+
+Window 15:
+Number of sentences: 3
+Sentences:
+  I seem angry.
+  She was happy.
+  The bird become sad.
+Bigrams and their co-occurrences count:
+  ('i', 'seem'): 1
+  ('she', 'was'): 1
+  ('was', 'happy'): 1
+  ('happy', 'the'): 1
+  ('bird', 'become'): 1
+  ('become', 'sad'): 1
+  ('seem', 'angry'): 1
+  ('angry', 'she'): 1
+  ('the', 'bird'): 1
+
+Window 16:
+Number of sentences: 3
+Sentences:
+  The bird become sad.
+  We seem sad.
+  They become confused.
+Bigrams and their co-occurrences count:
+  ('bird', 'become'): 1
+  ('become', 'sad'): 1
+  ('we', 'seem'): 1
+  ('sad', 'they'): 1
+  ('they', 'become'): 1
+  ('become', 'confused'): 1
+  ('the', 'bird'): 1
+  ('sad', 'we'): 1
+  ('seem', 'sad'): 1
+
+Window 17:
+Number of sentences: 3
+Sentences:
+  They become confused.
+  He look curious.
+  The elephant seem angry.
+Bigrams and their co-occurrences count:
+  ('they', 'become'): 1
+  ('become', 'confused'): 1
+  ('he', 'look'): 1
+  ('confused', 'he'): 1
+  ('look', 'curious'): 1
+  ('curious', 'the'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'seem'): 1
+  ('seem', 'angry'): 1
+
+Window 18:
+Number of sentences: 3
+Sentences:
+  The elephant seem angry.
+  The elephant was hungry.
+  The dog feel tired.
+Bigrams and their co-occurrences count:
+  ('dog', 'feel'): 1
+  ('feel', 'tired'): 1
+  ('the', 'elephant'): 2
+  ('elephant', 'seem'): 1
+  ('seem', 'angry'): 1
+  ('angry', 'the'): 1
+  ('elephant', 'was'): 1
+  ('was', 'hungry'): 1
+  ('hungry', 'the'): 1
+  ('the', 'dog'): 1
+
+Window 19:
+Number of sentences: 3
+Sentences:
+  The dog feel tired.
+  They become tired.
+  The elephant look confused.
+Bigrams and their co-occurrences count:
+  ('dog', 'feel'): 1
+  ('feel', 'tired'): 1
+  ('tired', 'they'): 1
+  ('they', 'become'): 1
+  ('become', 'tired'): 1
+  ('the', 'dog'): 1
+  ('tired', 'the'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'look'): 1
+  ('look', 'confused'): 1
+
+Window 20:
+Number of sentences: 3
+Sentences:
+  The elephant look confused.
+  She are angry.
+  I are curious.
+Bigrams and their co-occurrences count:
+  ('are', 'angry'): 1
+  ('are', 'curious'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'look'): 1
+  ('look', 'confused'): 1
+  ('confused', 'she'): 1
+  ('she', 'are'): 1
+  ('angry', 'i'): 1
+  ('i', 'are'): 1
+
+Window 21:
+Number of sentences: 3
+Sentences:
+  I are curious.
+  I feel curious.
+  The cat were sad.
+Bigrams and their co-occurrences count:
+  ('are', 'curious'): 1
+  ('feel', 'curious'): 1
+  ('the', 'cat'): 1
+  ('were', 'sad'): 1
+  ('i', 'are'): 1
+  ('curious', 'i'): 1
+  ('i', 'feel'): 1
+  ('curious', 'the'): 1
+  ('cat', 'were'): 1
+
+Window 22:
+Number of sentences: 3
+Sentences:
+  The cat were sad.
+  The dog is curious.
+  The bird are angry.
+Bigrams and their co-occurrences count:
+  ('the', 'cat'): 1
+  ('were', 'sad'): 1
+  ('bird', 'are'): 1
+  ('are', 'angry'): 1
+  ('cat', 'were'): 1
+  ('sad', 'the'): 1
+  ('the', 'dog'): 1
+  ('dog', 'is'): 1
+  ('is', 'curious'): 1
+  ('curious', 'the'): 1
+  ('the', 'bird'): 1
+
+Window 23:
+Number of sentences: 3
+Sentences:
+  The bird are angry.
+  She was angry.
+  I is sad.
+Bigrams and their co-occurrences count:
+  ('bird', 'are'): 1
+  ('are', 'angry'): 1
+  ('she', 'was'): 1
+  ('i', 'is'): 1
+  ('the', 'bird'): 1
+  ('angry', 'she'): 1
+  ('was', 'angry'): 1
+  ('angry', 'i'): 1
+  ('is', 'sad'): 1
+
+Window 24:
+Number of sentences: 3
+Sentences:
+  I is sad.
+  The elephant look sleepy.
+  They feel happy.
+Bigrams and their co-occurrences count:
+  ('i', 'is'): 1
+  ('sleepy', 'they'): 1
+  ('they', 'feel'): 1
+  ('is', 'sad'): 1
+  ('sad', 'the'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'look'): 1
+  ('look', 'sleepy'): 1
+  ('feel', 'happy'): 1
+
+Window 25:
+Number of sentences: 3
+Sentences:
+  They feel happy.
+  The dog look excited.
+  The dog become calm.
+Bigrams and their co-occurrences count:
+  ('they', 'feel'): 1
+  ('happy', 'the'): 1
+  ('dog', 'become'): 1
+  ('feel', 'happy'): 1
+  ('the', 'dog'): 2
+  ('dog', 'look'): 1
+  ('look', 'excited'): 1
+  ('excited', 'the'): 1
+  ('become', 'calm'): 1
+
+Window 26:
+Number of sentences: 3
+Sentences:
+  The dog become calm.
+  She feel happy.
+  The dog am tired.
+Bigrams and their co-occurrences count:
+  ('dog', 'become'): 1
+  ('calm', 'she'): 1
+  ('happy', 'the'): 1
+  ('the', 'dog'): 2
+  ('become', 'calm'): 1
+  ('she', 'feel'): 1
+  ('feel', 'happy'): 1
+  ('dog', 'am'): 1
+  ('am', 'tired'): 1
+
+Window 27:
+Number of sentences: 3
+Sentences:
+  The dog am tired.
+  You become confused.
+  They look calm.
+Bigrams and their co-occurrences count:
+  ('tired', 'you'): 1
+  ('you', 'become'): 1
+  ('become', 'confused'): 1
+  ('confused', 'they'): 1
+  ('look', 'calm'): 1
+  ('the', 'dog'): 1
+  ('dog', 'am'): 1
+  ('am', 'tired'): 1
+  ('they', 'look'): 1
+
+Window 28:
+Number of sentences: 3
+Sentences:
+  They look calm.
+  The dog become happy.
+  The cat look sleepy.
+Bigrams and their co-occurrences count:
+  ('look', 'calm'): 1
+  ('calm', 'the'): 1
+  ('dog', 'become'): 1
+  ('happy', 'the'): 1
+  ('the', 'cat'): 1
+  ('cat', 'look'): 1
+  ('they', 'look'): 1
+  ('the', 'dog'): 1
+  ('become', 'happy'): 1
+  ('look', 'sleepy'): 1
+
+Window 29:
+Number of sentences: 2
+Sentences:
+  The cat look sleepy.
+  They feel sad.
+Bigrams and their co-occurrences count:
+  ('the', 'cat'): 1
+  ('cat', 'look'): 1
+  ('sleepy', 'they'): 1
+  ('they', 'feel'): 1
+  ('feel', 'sad'): 1
+  ('look', 'sleepy'): 1
+
+Window 30:
+Number of sentences: 3
+Sentences:
+  They feel sad.
+  The bird am tired.
+  The dog am confused.
+Bigrams and their co-occurrences count:
+  ('they', 'feel'): 1
+  ('feel', 'sad'): 1
+  ('sad', 'the'): 1
+  ('the', 'bird'): 1
+  ('bird', 'am'): 1
+  ('am', 'tired'): 1
+  ('tired', 'the'): 1
+  ('the', 'dog'): 1
+  ('dog', 'am'): 1
+  ('am', 'confused'): 1
+
+Window 31:
+Number of sentences: 3
+Sentences:
+  The dog am confused.
+  The dog become happy.
+  We look angry.
+Bigrams and their co-occurrences count:
+  ('dog', 'become'): 1
+  ('happy', 'we'): 1
+  ('we', 'look'): 1
+  ('the', 'dog'): 2
+  ('dog', 'am'): 1
+  ('am', 'confused'): 1
+  ('confused', 'the'): 1
+  ('become', 'happy'): 1
+  ('look', 'angry'): 1
+
+Window 32:
+Number of sentences: 4
+Sentences:
+  We look angry.
+  The bird are hungry.
+  They look happy.
+  She are sad.
+Bigrams and their co-occurrences count:
+  ('we', 'look'): 1
+  ('bird', 'are'): 1
+  ('are', 'hungry'): 1
+  ('hungry', 'they'): 1
+  ('look', 'happy'): 1
+  ('happy', 'she'): 1
+  ('are', 'sad'): 1
+  ('look', 'angry'): 1
+  ('angry', 'the'): 1
+  ('the', 'bird'): 1
+  ('they', 'look'): 1
+  ('she', 'are'): 1
+
+Window 33:
+Number of sentences: 2
+Sentences:
+  She are sad.
+  They appear happy.
+Bigrams and their co-occurrences count:
+  ('are', 'sad'): 1
+  ('sad', 'they'): 1
+  ('appear', 'happy'): 1
+  ('she', 'are'): 1
+  ('they', 'appear'): 1
+
+Window 34:
+Number of sentences: 2
+Sentences:
+  She were hungry.
+  The bird feel excited.
+Bigrams and their co-occurrences count:
+  ('were', 'hungry'): 1
+  ('bird', 'feel'): 1
+  ('feel', 'excited'): 1
+  ('she', 'were'): 1
+  ('hungry', 'the'): 1
+  ('the', 'bird'): 1
+
+Window 35:
+Number of sentences: 3
+Sentences:
+  The dog was curious.
+  He am excited.
+  The elephant was tired.
+Bigrams and their co-occurrences count:
+  ('he', 'am'): 1
+  ('the', 'dog'): 1
+  ('dog', 'was'): 1
+  ('was', 'curious'): 1
+  ('curious', 'he'): 1
+  ('am', 'excited'): 1
+  ('excited', 'the'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'was'): 1
+  ('was', 'tired'): 1
+
+Window 36:
+Number of sentences: 3
+Sentences:
+  He am excited.
+  The elephant was tired.
+  I were sleepy.
+Bigrams and their co-occurrences count:
+  ('he', 'am'): 1
+  ('were', 'sleepy'): 1
+  ('am', 'excited'): 1
+  ('excited', 'the'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'was'): 1
+  ('was', 'tired'): 1
+  ('tired', 'i'): 1
+  ('i', 'were'): 1
+
+Window 37:
+Number of sentences: 3
+Sentences:
+  I were sleepy.
+  They become tired.
+  The elephant appear angry.
+Bigrams and their co-occurrences count:
+  ('were', 'sleepy'): 1
+  ('sleepy', 'they'): 1
+  ('they', 'become'): 1
+  ('become', 'tired'): 1
+  ('i', 'were'): 1
+  ('tired', 'the'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'appear'): 1
+  ('appear', 'angry'): 1
+
+Window 38:
+Number of sentences: 4
+Sentences:
+  The elephant appear angry.
+  The dog seem confused.
+  I was hungry.
+  They become confused.
+Bigrams and their co-occurrences count:
+  ('i', 'was'): 1
+  ('hungry', 'they'): 1
+  ('they', 'become'): 1
+  ('become', 'confused'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'appear'): 1
+  ('appear', 'angry'): 1
+  ('angry', 'the'): 1
+  ('the', 'dog'): 1
+  ('dog', 'seem'): 1
+  ('seem', 'confused'): 1
+  ('confused', 'i'): 1
+  ('was', 'hungry'): 1
+
+Window 39:
+Number of sentences: 2
+Sentences:
+  They become confused.
+  The bird is tired.
+Bigrams and their co-occurrences count:
+  ('they', 'become'): 1
+  ('become', 'confused'): 1
+  ('confused', 'the'): 1
+  ('the', 'bird'): 1
+  ('bird', 'is'): 1
+  ('is', 'tired'): 1
+
+Window 40:
+Number of sentences: 3
+Sentences:
+  The bird is tired.
+  You appear sad.
+  The elephant seem excited.
+Bigrams and their co-occurrences count:
+  ('tired', 'you'): 1
+  ('the', 'bird'): 1
+  ('bird', 'is'): 1
+  ('is', 'tired'): 1
+  ('you', 'appear'): 1
+  ('appear', 'sad'): 1
+  ('sad', 'the'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'seem'): 1
+  ('seem', 'excited'): 1
+
+Window 41:
+Number of sentences: 3
+Sentences:
+  The elephant seem excited.
+  I feel excited.
+  You was angry.
+Bigrams and their co-occurrences count:
+  ('feel', 'excited'): 1
+  ('excited', 'you'): 1
+  ('the', 'elephant'): 1
+  ('elephant', 'seem'): 1
+  ('seem', 'excited'): 1
+  ('excited', 'i'): 1
+  ('i', 'feel'): 1
+  ('you', 'was'): 1
+  ('was', 'angry'): 1
+
+Window 42:
+Number of sentences: 3
+Sentences:
+  You was angry.
+  The bird seem sad.
+  We am curious.
+Bigrams and their co-occurrences count:
+  ('we', 'am'): 1
+  ('you', 'was'): 1
+  ('was', 'angry'): 1
+  ('angry', 'the'): 1
+  ('the', 'bird'): 1
+  ('bird', 'seem'): 1
+  ('seem', 'sad'): 1
+  ('sad', 'we'): 1
+  ('am', 'curious'): 1
+
+Window 43:
+Number of sentences: 3
+Sentences:
+  We am curious.
+  The dog were hungry.
+  They were sleepy.
+Bigrams and their co-occurrences count:
+  ('we', 'am'): 1
+  ('dog', 'were'): 1
+  ('were', 'hungry'): 1
+  ('hungry', 'they'): 1
+  ('they', 'were'): 1
+  ('were', 'sleepy'): 1
+  ('am', 'curious'): 1
+  ('curious', 'the'): 1
+  ('the', 'dog'): 1
+
+Window 44:
+Number of sentences: 3
+Sentences:
+  They were sleepy.
+  I am tired.
+  The bird am confused.
+Bigrams and their co-occurrences count:
+  ('they', 'were'): 1
+  ('were', 'sleepy'): 1
+  ('i', 'am'): 1
+  ('sleepy', 'i'): 1
+  ('am', 'tired'): 1
+  ('tired', 'the'): 1
+  ('the', 'bird'): 1
+  ('bird', 'am'): 1
+  ('am', 'confused'): 1
+
+Window 45:
+Number of sentences: 3
+Sentences:
+  The bird am confused.
+  The bird seem sad.
+  He seem confused.
+Bigrams and their co-occurrences count:
+  ('he', 'seem'): 1
+  ('the', 'bird'): 2
+  ('bird', 'am'): 1
+  ('am', 'confused'): 1
+  ('confused', 'the'): 1
+  ('bird', 'seem'): 1
+  ('seem', 'sad'): 1
+  ('sad', 'he'): 1
+  ('seem', 'confused'): 1
+
+Window 46:
+Number of sentences: 3
+Sentences:
+  He seem confused.
+  They is sleepy.
+  The elephant are curious.
+Bigrams and their co-occurrences count:
+  ('he', 'seem'): 1
+  ('confused', 'they'): 1
+  ('elephant', 'are'): 1
+  ('are', 'curious'): 1
+  ('seem', 'confused'): 1
+  ('they', 'is'): 1
+  ('is', 'sleepy'): 1
+  ('sleepy', 'the'): 1
+  ('the', 'elephant'): 1
+
+Window 47:
+Number of sentences: 3
+Sentences:
+  The elephant are curious.
+  They was curious.
+  We is tired.
+Bigrams and their co-occurrences count:
+  ('elephant', 'are'): 1
+  ('are', 'curious'): 1
+  ('curious', 'they'): 1
+  ('we', 'is'): 1
+  ('the', 'elephant'): 1
+  ('they', 'was'): 1
+  ('was', 'curious'): 1
+  ('curious', 'we'): 1
+  ('is', 'tired'): 1
+
+Window 48:
+Number of sentences: 3
+Sentences:
+  We is tired.
+  We appear curious.
+  They seem curious.
+Bigrams and their co-occurrences count:
+  ('we', 'is'): 1
+  ('we', 'appear'): 1
+  ('curious', 'they'): 1
+  ('is', 'tired'): 1
+  ('tired', 'we'): 1
+  ('appear', 'curious'): 1
+  ('they', 'seem'): 1
+  ('seem', 'curious'): 1
+
+Window 49:
+Number of sentences: 3
+Sentences:
+  They seem curious.
+  They appear sad.
+  They appear confused.
+Bigrams and their co-occurrences count:
+  ('curious', 'they'): 1
+  ('sad', 'they'): 1
+  ('they', 'seem'): 1
+  ('seem', 'curious'): 1
+  ('they', 'appear'): 2
+  ('appear', 'sad'): 1
+  ('appear', 'confused'): 1
+
+Window 50:
+Number of sentences: 3
+Sentences:
+  They appear confused.
+  We am curious.
+  He seem calm.
+Bigrams and their co-occurrences count:
+  ('we', 'am'): 1
+  ('he', 'seem'): 1
+  ('seem', 'calm'): 1
+  ('they', 'appear'): 1
+  ('appear', 'confused'): 1
+  ('confused', 'we'): 1
+  ('am', 'curious'): 1
+  ('curious', 'he'): 1
+
+Window 51:
+Number of sentences: 2
+Sentences:
+  He seem calm.
+  She is confused.
+Bigrams and their co-occurrences count:
+  ('he', 'seem'): 1
+  ('seem', 'calm'): 1
+  ('calm', 'she'): 1
+  ('she', 'is'): 1
+  ('is', 'confused'): 1
+
